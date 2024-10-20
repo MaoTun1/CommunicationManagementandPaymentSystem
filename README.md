@@ -7,6 +7,6 @@ ServiceProvider – ServiceProviders charge Subscribers based on their communica
 Each communication type has a specific cost (voice communication cost, messaging cost, Internet cost).
 Invoice – It is paid by the Subscriber. ServiceProviders record the communication actions of Subscribers and create Invoices based on their communication usage.
 
-                                                      Some rules are given below
+Some rules are given below
 
-                                                      ![image](https://github.com/user-attachments/assets/7d111112-4179-4e1b-b1fa-d036cd6efc4c)
+![image](https://github.com/user-attachments/assets/7d111112-4179-4e1b-b1fa-d036cd6efc4c)
