@@ -1,18 +1,9 @@
-## Getting Started
+In this project, i will design and implement a simple version of a Communication Management and Payment System.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+ In the system we have the following objects: Subscriber – Subscribers can communicate each other.
+  There are two ways of communication: voice or message communication. Subscribers can also get connected to the Internet via their mobile phones.
+   ServiceProvider – ServiceProviders charge Subscribers based on their communication usage.
+    Each communication type has a specific cost (voice communication cost, messaging cost, Internet cost). Invoice – It is paid by the Subscriber.
+     ServiceProviders record the communication actions of Subscribers and create Invoices based on their communication usage.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+     
