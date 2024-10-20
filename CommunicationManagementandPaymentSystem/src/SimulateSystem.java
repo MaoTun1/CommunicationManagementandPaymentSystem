@@ -1,4 +1,7 @@
-public class TestClass {
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class SimulateSystem {
     private static ArrayList<Subscriber> subscribers = new ArrayList<>();
     private static ArrayList<ServiceProvider> providers = new ArrayList<>();
 
